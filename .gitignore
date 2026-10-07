@@ -1,0 +1,12 @@
+venv/
+data/
+__pycache__/
+*.npy
+*.zip
+*.tflite
+.env
+.DS_Store
+cardioguard_cnn_lstm_demo.keras
+cardioguard_cnn_lstm_final.keras
+cardioguard_cnn_lstm_pruned.keras
+compression_cnn_lstm.py
